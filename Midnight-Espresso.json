@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Espresso10",
+    "name": "Midnight-Espresso11",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
     "authors": [
         {
@@ -94,7 +94,7 @@
             "#DAC0B3"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
             "#000000"
