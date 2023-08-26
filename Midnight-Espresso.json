@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Espresso14",
+    "name": "Midnight-Espresso15",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
     "authors": [
         {
@@ -39,31 +39,31 @@
             "#957261"
         ],
         "BACKGROUND_PRIMARY": [
-            "#110D0A"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#15100d"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#15100d"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#110D0A"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
             "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#15100d"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#15100d"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#15100d"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#000000"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -106,13 +106,13 @@
             "#503E38"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#000000"
         ],
         "CHANNEL_ICON": [
             "#000000"
         ],
         "CHAT_BACKGROUND": [
-            "#110D0A"
+            "#000000"
         ]
     },
     "rawColors": {
