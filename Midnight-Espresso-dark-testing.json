@@ -97,7 +97,7 @@
             "#372E29"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
+            "#000000"
         ],
         "TEXT_LINK": [
             "#9E8376"
@@ -116,7 +116,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E8376",
+        "PRIMARY_500": "#000000",
         "PRIMARY_100": "#000000",
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_300": "#9E8376",
