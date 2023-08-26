@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Espresso-mod",
+    "name": "Midnight-Espresso",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
     "authors": [
         {
@@ -15,13 +15,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#000000"
+            "#EFDFD7"
         ],
         "HEADER_SECONDARY": [
-            "#000000"
+            "#EFDFD7"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#E7D6CE"
         ],
         "TEXT_MUTED": [
             "#A07D6C"
@@ -39,28 +39,28 @@
             "#957261"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#110D0A"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_TERTIARY": [
             "#110D0A"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#503E38"
         ],
         "BACKGROUND_FLOATING": [
             "#15100d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
@@ -79,7 +79,7 @@
             "#372d2b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "000000"
+            "503E38"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
@@ -94,10 +94,10 @@
             "#DAC0B3"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#000000"
+            "#372E29"
         ],
         "CHANNELS_DEFAULT": [
-            "#000000"
+            "#9E8376"
         ],
         "TEXT_LINK": [
             "#9E8376"
@@ -109,24 +109,24 @@
             "#110D0A"
         ],
         "CHANNEL_ICON": [
-            "#000000"
+            "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
-            "#000000"
+            "#110D0A"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#000000",
-        "PRIMARY_100": "#000000",
-        "PRIMARY_200": "#000000",
-        "PRIMARY_300": "#000000",
-        "PRIMARY_360": "#000000",
-        "PRIMARY_400": "#000000",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
+        "PRIMARY_500": "#9E8376",
+        "PRIMARY_100": "#EFDFD7",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#9E8376",
+        "PRIMARY_360": "#9E8376",
+        "PRIMARY_400": "#9E8376",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
         "BRAND_260": "#957261",
         "BRAND_360": "#D0A996",
         "BRAND_500": "#957261",
