@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Espresso-dark-testing",
+    "name": "Midnight-Espresso-dark",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini, Modded for dark mode by MattTheTekie!",
     "authors": [
         {
@@ -57,7 +57,7 @@
             "#15100d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#08080A"
