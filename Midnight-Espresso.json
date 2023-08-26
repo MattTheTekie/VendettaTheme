@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Espresso-mod",
+    "name": "Midnight-Espresso",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
     "authors": [
         {
@@ -15,10 +15,10 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#000000"
+            "#EFDFD7"
         ],
         "HEADER_SECONDARY": [
-            "#000000"
+            "#EFDFD7"
         ],
         "TEXT_NORMAL": [
             "#E7D6CE"
@@ -27,10 +27,10 @@
             "#A07D6C"
         ],
         "INTERACTIVE_NORMAL": [
-            "#000000"
+            "#EFDFD7"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000"
+            "#503E38"
         ],
         "INTERACTIVE_ACTIVE": [
             "#EFDFD7"
@@ -126,11 +126,11 @@
         "PRIMARY_630": "#1B1411",
         "PRIMARY_660": "#1B1411",
         "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#000000",
-        "BRAND_260": "#000000",
-        "BRAND_360": "#000000",
-        "BRAND_500": "#000000",
-        "BRAND_560": "#000000",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#957261",
+        "BRAND_360": "#D0A996",
+        "BRAND_500": "#957261",
+        "BRAND_560": "#D0A996",
         "YELLOW_300": "#957261",
         "GREEN_600": "#EFDFD7",
         "DANGER": "#625682",
