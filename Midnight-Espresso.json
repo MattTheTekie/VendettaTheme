@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Espresso-mod1",
+    "name": "Midnight-Espresso-mod2",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
     "authors": [
         {
@@ -112,7 +112,7 @@
             "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
-            "#110D0A"
+            "#000000"
         ]
     },
     "rawColors": {
