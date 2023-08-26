@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Espresso-mod3",
+    "name": "Midnight-Espresso",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
     "authors": [
         {
@@ -39,28 +39,28 @@
             "#957261"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#110D0A"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#110D0A"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#503E38"
         ],
         "BACKGROUND_FLOATING": [
             "#15100d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#15100d"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
@@ -112,7 +112,7 @@
             "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
-            "#000000"
+            "#110D0A"
         ]
     },
     "rawColors": {
@@ -122,8 +122,8 @@
         "PRIMARY_300": "#9E8376",
         "PRIMARY_360": "#9E8376",
         "PRIMARY_400": "#9E8376",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
         "PRIMARY_660": "#1B1411",
         "PRIMARY_700": "#100D0A",
         "PRIMARY_800": "#100D0A",
